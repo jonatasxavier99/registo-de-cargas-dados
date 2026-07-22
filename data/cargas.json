@@ -48,41 +48,10 @@
   "calendarEvents": [],
   "mesocycles": [],
   "microcycles": [],
-  "cardioLoads": [
-    {
-      "athleteId": "atl-1",
-      "athleteName": "Atleta 1",
-      "modality": "rugby-masculino",
-      "date": "2026-07-16",
-      "startTime": "13:19:27",
-      "sport": "OTHER_INDOOR",
-      "durationSeconds": 1962,
-      "recordedSeconds": 1964,
-      "coverage": 100.10193679918451,
-      "averageHr": 100.47046843177189,
-      "maxHrObserved": 127,
-      "hrMax": 198,
-      "hrRest": 55,
-      "calories": 94,
-      "fatPercent": 0,
-      "zones": [
-        17.233333333333334,
-        1,
-        0,
-        0,
-        0
-      ],
-      "eTrimp": 19.233333333333334,
-      "bTrimp": 12.621985681195145,
-      "sourceFile": "Rita_Araujo_2026-07-16_13-19-27.CSV",
-      "id": "cardio-60885ki-mrwcse6s",
-      "createdAt": "2026-07-22T17:25:30.964Z",
-      "updatedAt": "2026-07-22T17:25:30.964Z"
-    }
-  ],
+  "cardioLoads": [],
   "questionnaireResponses": [],
   "bodyPainResponses": [],
   "injuryResponses": [],
   "createdAt": "2026-07-22T00:28:12.076Z",
-  "updatedAt": "2026-07-22T17:25:30.964Z"
+  "updatedAt": "2026-07-22T17:26:12.840Z"
 }

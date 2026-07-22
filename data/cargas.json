@@ -48,10 +48,43 @@
   "calendarEvents": [],
   "mesocycles": [],
   "microcycles": [],
-  "cardioLoads": [],
+  "cardioLoads": [
+    {
+      "sourceAthleteName": "Clara  Judas",
+      "date": "2026-05-12",
+      "startTime": "14:06:02",
+      "sport": "GYMNASTICK",
+      "durationSeconds": 15122,
+      "recordedSeconds": 14921,
+      "coverage": 98.67081073932019,
+      "averageHr": 112.09543596273708,
+      "maxHrObserved": 182,
+      "hrMax": 200,
+      "hrRest": 55,
+      "calories": 1184,
+      "fatPercent": 0,
+      "zones": [
+        78.68333333333334,
+        37.06666666666667,
+        20.05,
+        24,
+        0.5333333333333333
+      ],
+      "eTrimp": 311.6333333333334,
+      "bTrimp": 174.6554027074991,
+      "sourceFile": "Clara+_Judas_2026-05-12_14-06-02.xlsx",
+      "sourceSheet": "Treino",
+      "athleteId": "atl-1",
+      "athleteName": "Atleta 1",
+      "modality": "rugby-masculino",
+      "id": "cardio-fb39bn3-mrwh66dk",
+      "createdAt": "2026-07-22T19:28:12.488Z",
+      "updatedAt": "2026-07-22T19:28:12.488Z"
+    }
+  ],
   "questionnaireResponses": [],
   "bodyPainResponses": [],
   "injuryResponses": [],
   "createdAt": "2026-07-22T00:28:12.076Z",
-  "updatedAt": "2026-07-22T17:26:12.840Z"
+  "updatedAt": "2026-07-22T19:28:12.491Z"
 }

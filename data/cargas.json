@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "team": {
+    "name": "Equipa principal",
+    "season": "2026/27",
+    "sport": "Rugby",
+    "coach": ""
+  },
+  "athletes": [
+    {
+      "id": "atl-1",
+      "name": "Atleta 1",
+      "position": "Avançado",
+      "group": "Equipa principal",
+      "status": "Disponível",
+      "createdAt": "2026-07-22T00:28:12.076Z"
+    },
+    {
+      "id": "atl-2",
+      "name": "Atleta 2",
+      "position": "Três-quartos",
+      "group": "Equipa principal",
+      "status": "Disponível",
+      "createdAt": "2026-07-22T00:28:12.076Z"
+    },
+    {
+      "id": "atl-3",
+      "name": "Atleta 3",
+      "position": "Médio",
+      "group": "Equipa principal",
+      "status": "Disponível",
+      "createdAt": "2026-07-22T00:28:12.076Z"
+    }
+  ],
+  "sessions": [],
+  "createdAt": "2026-07-22T00:28:12.076Z",
+  "updatedAt": "2026-07-22T00:28:12.076Z"
+}
